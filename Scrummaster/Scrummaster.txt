@@ -30,16 +30,40 @@ Hari 2 (3 Desember) :
 
 1. Natanael Hutagalung
    - Mengerjakan: - Menambahkan Kelebihan dan Kekurangan Produk 
-   - Masalah    : Tidak ada
+   - Masalah    : - Ada bagian teks yang tidak terlihat
 
 2. Michael William Butar-Butar
    - Mengerjakan: - Membuat desain pada file index.html
-   - Masalah    : - 
+   - Masalah    : - Tidak ada masalah
 
 3. Putra Pratama Sagala
    - Mengerjakan: - Membuat Gambar Tentang Produk.
-   - Masalah    : -
+   - Masalah    : - Gambar tidak tersusun rapi
 
 4. Egia Pratama
    - Mengerjakan: - Membuat Manfaat dari produk
+   - Masalah    : - Tidak ada masalah
+
+
+
+
+
+Scrummaster2 : Michael William Butarbutar (4 Desember - 5 Desember)
+
+Hari 1 (4 Desember)
+
+1. Natanael Hutagalung
+   - Mengerjakan: - Memperbaiki penyusunan dan mengatasi masalah teks tak terlihat pada bagian kelebihan dan kekurangan produk.
+   - Masalah    : -
+
+2. Faidul Fajar Marpaung
+   - Mengerjakan: - Menambah identitas anggota tim (nim) dan membuat ukuran font yang konsisten di setiap slide.
+   - Masalah    : - 
+
+3. Putra Pratama Sagala
+   - Mengerjakan: - Merapikan gambar produk(menjadi bentuk ke samping) dan memberikan keterangan dibawah gambar.
+   - Masalah    : -
+
+4. Egia Pratama
+   - Mengerjakan: - Menambah video tentang produk setelah slide kelebihan dan kekurangan (memberi keterangan di atas video)
    - Masalah    : -
