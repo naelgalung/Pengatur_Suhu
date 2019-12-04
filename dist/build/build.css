@@ -447,6 +447,10 @@ video {
 }
 .deck {
   overflow: hidden;
+<<<<<<< HEAD
+=======
+  background-color: #fff;
+>>>>>>> f33b4a4d724a24f36471bc09b19e238ade39a89f
   font-feature-settings: "kern" 1;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
