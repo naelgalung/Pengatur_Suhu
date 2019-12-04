@@ -447,7 +447,6 @@ video {
 }
 .deck {
   overflow: hidden;
-  background-color: #ADD8E6;
   font-feature-settings: "kern" 1;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -472,7 +471,7 @@ video {
 .bespoke-slide {
   overflow: hidden;
   opacity: 0;
-  background-color: #ADD8E6;
+  background-color: #fff;
   position: absolute;
   top: 50%;
   left: 50%;
