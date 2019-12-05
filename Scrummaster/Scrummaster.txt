@@ -1,87 +1,217 @@
-Scrummaster1 : Faidul Fajar Marpaung (2 Desember - 3 Desember)
+========================================================================
+Scrummaster 1 : Faidul Fajar Marpaung (2-3 Desember 2019)
 
 Hari 1 (2 Desember) :
-
+-------------------------------------
 
 1. Natanael Hutagalung
-   - Mengerjakan: - Membuat File Bespoke
-		  - Membuat Repositori Server
-		  - Manfaat Produk
-   - Masalah    : Tidak ada
 
-2. Michael William Butar-Butar
-   - Mengerjakan: - Melakukan Pembuatan Trello
-		  - Deskripsi Produk
-		  - Membuat nama Tim
-   - Masalah    : - Tidak ada
+Pekerjaan Sekarang :
+- Membuat Github
+- Membuat Repository Server
+- Manfaat produk
+
+Masalah :
+- Tidak ada
+
+-------------------------------------
+
+2. Michael William Butarbutar
+
+Pekerjaan Sekarang :
+- Melakukan pembuatan trello awal
+- Membuat deskripsi produk
+- Membuat nama tim
+
+Masalah : 
+- Tidak ada
+
+-------------------------------------
 
 3. Putra Pratama Sagala
-   - Mengerjakan: - Kelebihan dan Kekurangan Produk 
-   - Masalah    : Tidak ada
+
+Pekerjaan Sekarang :
+- Membuat kelebihan dan kekurangan produk
+
+Masalah :
+- Tidak ada
+
+--------------------------------------
 
 4. Egia Pratama
-   - Mengerjakan: - Menambahkan Gambar Produk
-   - Masalah    : Tidak ada
 
+Pekerjaan Sekarang :
+- Menambahkan gambar produk
 
+Masalah :
+- Tidak ada
+======================================================================
 
 Hari 2 (3 Desember) :
-
+-------------------------------------
 
 1. Natanael Hutagalung
-   - Mengerjakan: - Menambahkan Kelebihan dan Kekurangan Produk 
-   - Masalah    : - Ada bagian teks yang tidak terlihat
 
-2. Michael William Butar-Butar
-   - Mengerjakan: - Membuat desain pada file index.html
-   - Masalah    : - Tidak ada masalah
+Pekerjaan Sebelumnya :
+- Membuat Github
+- Membuat Repository Server
+- Manfaat produk
+
+Pekerjaan Sekarang :
+- Menambahkan kelebihan dan kekurangan produk
+
+Masalah :
+- Ada bagian teks yang tidak terlihat
+
+-------------------------------------
+
+2. Michael William Butarbutar
+
+Pekerjaan Sebelumnya :
+- Melakukan pembuatan trello awal
+- Membuat deskripsi produk
+- Membuat nama tim
+
+Pekerjaan Sekarang :
+- Membuat Desain pada file Index.html
+
+Masalah : 
+- Tidak ada
+
+-------------------------------------
 
 3. Putra Pratama Sagala
-   - Mengerjakan: - Membuat Gambar Tentang Produk.
-   - Masalah    : - Gambar tidak tersusun rapi
+
+Pekerjaan Sebelumnya :
+- Membuat kelebihan dan kekurangan produk
+
+Pekerjaan Sekarang :
+- Membuat gambar tentang produk
+
+Masalah :
+- Gambar tidak tersusun rapi
+
+--------------------------------------
 
 4. Egia Pratama
-   - Mengerjakan: - Membuat Manfaat dari produk
-   - Masalah    : - Tidak ada masalah
+
+Pekerjaan Sebelumnya :
+- Menambahkan gambar produk
+
+Pekerjaan Sekarang :
+- Membuat manfaat dari produk
+
+Masalah :
+- Tidak ada
 
 
+========================================================================
+Scrummaster 2 : Michael William Butarbutar (4-5 Desember 2019)
 
-
-
-Scrummaster2 : Michael William Butarbutar (4 Desember - 5 Desember)
-
-Hari 1 (4 Desember)
+Hari 1 (4 Desember) :
+-------------------------------------
 
 1. Natanael Hutagalung
-   - Mengerjakan: - Memperbaiki penyusunan dan mengatasi masalah teks tak terlihat pada bagian kelebihan dan kekurangan produk.
-   - Masalah    : - Masih ada yang tidak kelihatan, dan kalimat berantakan.
+
+Pekerjaan Sebelumnya :
+- Menambahkan kelebihan dan kekurangan produk
+
+Pekerjaan Sekarang :
+- Memperbaiki penyusunan dan mengatasi masalah teks tak terlihat dibagian kelebihan dan kekurangan produk
+
+Masalah :
+- Masih ada yang tidak kelihatan dan kalimat masih berantakan.
+
+-------------------------------------
 
 2. Faidul Fajar Marpaung
-   - Mengerjakan: - Menambah identitas anggota tim (nim) dan membuat ukuran font yang konsisten di setiap slide.
-   - Masalah    : - Masih ada font yang tidak sama
+
+Pekerjaan Sebelumnya :
+- Berperan sebagai Scrummaster
+
+Pekerjaan Sekarang :
+- Menambah identitas anggota tim (nim) dan membuat ukuran font yang konsisten di setiap slide
+
+Masalah : 
+- Masih ada font yang tidak sama
+
+-------------------------------------
 
 3. Putra Pratama Sagala
-   - Mengerjakan: - Merapikan gambar produk(menjadi bentuk ke samping) dan memberikan keterangan dibawah gambar.
-   - Masalah    : - Masih ada gambar yang tidak muncul
+
+Pekerjaan Sebelumnya :
+- Membuat gambar tentang produk
+
+Pekerjaan Sekarang :
+- Merapikan gambar produk (menjadi bentuk ke samping) dan memberikan keterangan dibawah gambar.
+
+Masalah :
+- Masih ada gambar yang tidak muncul
+
+--------------------------------------
 
 4. Egia Pratama
-   - Mengerjakan: - Menambah video tentang produk setelah slide kelebihan dan kekurangan (memberi keterangan di atas video)
-   - Masalah    : - tidak ada masalah
 
-Hari 2 (5 Desember)
+Pekerjaan Sebelumnya :
+- Membuat manfaat dari produk
+
+Pekerjaan Sekarang :
+- Menambah video tentang produk setelah slide kelebihan dan kekurangan (memberi keterangan di atas video)
+
+Masalah :
+- Tidak ada
+
+======================================================================
+
+Hari 2 (5 Desember) :
+-------------------------------------
 
 1. Natanael Hutagalung
-   - Mengerjakan: - Memperbaiki kembali penyusunan teks (terutama tanda baca) dan mengatasi masalah teks tak terlihat pada bagian kelebihan dan kekurangan produk.
-   - Masalah    : - 
+
+Pekerjaan Sebelumnya :
+- Memperbaiki penyusunan dan mengatasi masalah teks tak terlihat dibagian kelebihan dan kekurangan produk
+
+Pekerjaan Sekarang :
+- Memperbaiki kembali penyusunan teks (terutama tanda baca) dan mengatasi masalah teks tak terlihat pada bagian kelebihan dan kekurangan produk.
+
+Masalah :
+- 
+
+-------------------------------------
 
 2. Faidul Fajar Marpaung
-   - Mengerjakan: - Memperbaiki kembali ukuran font-font yang belum konsisten
-   - Masalah    : - 
+
+Pekerjaan Sebelumnya :
+- Menambah identitas anggota tim (nim) dan membuat ukuran font yang konsisten di setiap slide
+
+Pekerjaan Sekarang :
+- Memperbaiki kembali ukuran font-font yang belum konsisten
+
+Masalah : 
+- 
+
+-------------------------------------
 
 3. Putra Pratama Sagala
-   - Mengerjakan: - Memperbaiki gambar produk yang tidak muncul
-   - Masalah    : - 
+
+Pekerjaan Sebelumnya :
+- Merapikan gambar produk (menjadi bentuk ke samping) dan memberikan keterangan dibawah gambar.
+
+Pekerjaan Sekarang :
+- Memperbaiki gambar produk yang tidak muncul
+
+Masalah :
+- 
+
+--------------------------------------
 
 4. Egia Pratama
-   - Mengerjakan: - Mengubah posisi video ke bagian setelah slide manfaat.
-   - Masalah    : - 
+
+Pekerjaan Sebelumnya :
+- Menambah video tentang produk setelah slide kelebihan dan kekurangan (memberi keterangan di atas video)
+
+Pekerjaan Sekarang :
+- Mengubah posisi video ke bagian setelah slide manfaat. 
+
+Masalah :
+- 
