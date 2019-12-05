@@ -54,16 +54,34 @@ Hari 1 (4 Desember)
 
 1. Natanael Hutagalung
    - Mengerjakan: - Memperbaiki penyusunan dan mengatasi masalah teks tak terlihat pada bagian kelebihan dan kekurangan produk.
-   - Masalah    : -
+   - Masalah    : - Masih ada yang tidak kelihatan, dan kalimat berantakan.
 
 2. Faidul Fajar Marpaung
    - Mengerjakan: - Menambah identitas anggota tim (nim) dan membuat ukuran font yang konsisten di setiap slide.
-   - Masalah    : - 
+   - Masalah    : - Masih ada font yang tidak sama
 
 3. Putra Pratama Sagala
    - Mengerjakan: - Merapikan gambar produk(menjadi bentuk ke samping) dan memberikan keterangan dibawah gambar.
-   - Masalah    : -
+   - Masalah    : - Masih ada gambar yang tidak muncul
 
 4. Egia Pratama
    - Mengerjakan: - Menambah video tentang produk setelah slide kelebihan dan kekurangan (memberi keterangan di atas video)
-   - Masalah    : -
+   - Masalah    : - tidak ada masalah
+
+Hari 2 (5 Desember)
+
+1. Natanael Hutagalung
+   - Mengerjakan: - Memperbaiki kembali penyusunan teks (terutama tanda baca) dan mengatasi masalah teks tak terlihat pada bagian kelebihan dan kekurangan produk.
+   - Masalah    : - 
+
+2. Faidul Fajar Marpaung
+   - Mengerjakan: - Memperbaiki kembali ukuran font-font yang belum konsisten
+   - Masalah    : - 
+
+3. Putra Pratama Sagala
+   - Mengerjakan: - Memperbaiki gambar produk yang tidak muncul
+   - Masalah    : - 
+
+4. Egia Pratama
+   - Mengerjakan: - Mengubah posisi video ke bagian setelah slide manfaat.
+   - Masalah    : - 
