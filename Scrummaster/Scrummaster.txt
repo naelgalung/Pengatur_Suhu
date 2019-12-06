@@ -175,7 +175,7 @@ Pekerjaan Sekarang :
 - Memperbaiki kembali penyusunan teks (terutama tanda baca) dan mengatasi masalah teks tak terlihat pada bagian kelebihan dan kekurangan produk.
 
 Masalah :
-- 
+- kurang rapi dalam memasukan teks 
 
 -------------------------------------
 
@@ -188,7 +188,7 @@ Pekerjaan Sekarang :
 - Memperbaiki kembali ukuran font-font yang belum konsisten
 
 Masalah : 
-- 
+- ukuran font kurang besar dan warna yang kurang nyaman untuk dilihat 
 
 -------------------------------------
 
@@ -201,7 +201,7 @@ Pekerjaan Sekarang :
 - Memperbaiki gambar produk yang tidak muncul
 
 Masalah :
-- 
+- tidak ada masalah 
 
 --------------------------------------
 
@@ -214,4 +214,60 @@ Pekerjaan Sekarang :
 - Mengubah posisi video ke bagian setelah slide manfaat. 
 
 Masalah :
+- tidak ada keterangan lengkap diatas video 
+
+========================================================================
+Scrummaster 3 : Putra Pratama Sagala (6 & 9 Desember 2019)
+
+Hari 1 (6 Desember) :
+-------------------------------------
+
+1. Natanael Hutagalung
+
+Pekerjaan Sebelumnya :
+- Memperbaiki kembali penyusunan teks (terutama tanda baca) dan mengatasi masalah teks tak terlihat pada bagian kelebihan dan kekurangan produk.
+
+Pekerjaan Sekarang :
+- Memperbaiki penyusunan, tampilan slide dan mengatasi masalah teks dibagian kelebihan maupun kekurangan produk serta manfaat dengan semenarik mungkin. usahakan teks di setiap kalimat tersusun dengan rapi.
+
+Masalah :
 - 
+
+-------------------------------------
+
+2. Faidul Fajar Marpaung
+
+Pekerjaan Sebelumnya :
+- Memperbaiki kembali ukuran font-font yang belum konsisten
+
+Pekerjaan Sekarang :
+- Merapikan dibagian slide nama kelompok, deskripsi dan tampilan gambar produk ditambahkan beserta keterangan dibawahnya pada slide.
+
+Masalah : 
+- 
+
+-------------------------------------
+3. Michael William Butarbutar
+
+Pekerjaan Sebelumnya :
+- Berperan sebagai Scrummaster
+
+Pekerjaan Sekarang :
+- Membuat Desain tampilan agar lebih menarik di setiap slide, usahakan buat semenarik mungkin. baik dari background, gambar, warna di setiap slide dan sebagainya.
+
+Masalah : 
+-
+
+--------------------------------------
+
+4. Egia Pratama
+
+Pekerjaan Sebelumnya :
+- Mengubah posisi video ke bagian setelah slide manfaat. 
+
+Pekerjaan Sekarang :
+- Menambah keterangan mengenai video itu, serta menambahkan keterangan cara kerja produk tersebut di slide baru setelah video. dan menambahkan sejarah dari alat tersebut setelah dibagian slide deskripsi, buat semenarik mungkin.
+
+Masalah :
+-
+
