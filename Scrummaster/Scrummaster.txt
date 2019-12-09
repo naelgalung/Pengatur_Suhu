@@ -231,7 +231,7 @@ Pekerjaan Sekarang :
 - Memperbaiki penyusunan, tampilan slide dan mengatasi masalah teks dibagian kelebihan maupun kekurangan produk serta manfaat dengan semenarik mungkin. usahakan teks di setiap kalimat tersusun dengan rapi.
 
 Masalah :
-- 
+- posisi penyusunan maupun kalimat yang digunakan masih bermasalah.
 
 -------------------------------------
 
@@ -244,7 +244,7 @@ Pekerjaan Sekarang :
 - Merapikan dibagian slide nama kelompok, deskripsi dan tampilan gambar produk ditambahkan beserta keterangan dibawahnya pada slide.
 
 Masalah : 
-- 
+- penyusunan nama anggota kurang teratur
 
 -------------------------------------
 3. Michael William Butarbutar
@@ -253,10 +253,10 @@ Pekerjaan Sebelumnya :
 - Berperan sebagai Scrummaster
 
 Pekerjaan Sekarang :
-- Membuat Desain tampilan agar lebih menarik di setiap slide, usahakan buat semenarik mungkin. baik dari background, gambar, warna di setiap slide dan sebagainya.
+- Membuat Desain tampilan agar lebih menarik di halaman bagian slide, usahakan buat semenarik mungkin. baik dari background, gambar, maupun warna slide. 
 
 Masalah : 
--
+- transisi pada tampilan awal slide kurang pas. 
 
 --------------------------------------
 
@@ -269,5 +269,59 @@ Pekerjaan Sekarang :
 - Menambah keterangan mengenai video itu, serta menambahkan keterangan cara kerja produk tersebut di slide baru setelah video. dan menambahkan sejarah dari alat tersebut setelah dibagian slide deskripsi, buat semenarik mungkin.
 
 Masalah :
--
+- tidak ada keterangan jelas di video 
 
+======================================================================
+
+Hari 2 (9 Desember) :
+-------------------------------------
+
+1. Natanael Hutagalung
+
+Pekerjaan Sebelumnya :
+- Memperbaiki penyusunan, tampilan slide dan mengatasi masalah teks dibagian kelebihan maupun kekurangan produk serta manfaat dengan semenarik mungkin. usahakan teks di setiap kalimat tersusun dengan rapi.
+
+Pekerjaan Sekarang :
+- Memperbaiki kembali penyusunan teks terutama dibagian kekurangan produk serta keterangan dari manfaat produk.
+
+Masalah :
+- kurang rapi dalam penyusunan kalimat pada kekurangan produk maupun manfaat dari produk 
+
+-------------------------------------
+
+2. Faidul Fajar Marpaung
+
+Pekerjaan Sebelumnya :
+- Merapikan dibagian slide nama kelompok, deskripsi dan tampilan gambar produk ditambahkan beserta keterangan dibawahnya pada slide.
+
+Pekerjaan Sekarang :
+- Memperbaiki tampilan slide nama kelompok yang sulit untuk dibaca serta keterangan gambar produk yang kurang jelas
+
+Masalah : 
+- tampilan slide pada nama kelompok yang kurang menarik untuk dilihat serta keterangan dibawah gambar produk yang belum jelas 
+
+-------------------------------------
+
+3. Michael William Butarbutar
+
+Pekerjaan Sebelumnya :
+- Membuat Desain tampilan agar lebih menarik di halaman bagian slide, usahakan buat semenarik mungkin. baik dari background, gambar, maupun warna slide.
+
+Pekerjaan Sekarang :
+- menambahkan gambar maupun warna tulisan agar lebih menarik lagi
+
+Masalah : 
+- warna terkhusus pada setiap heading slide kurang bagus
+
+--------------------------------------
+
+4. Egia Pratama
+
+Pekerjaan Sebelumnya :
+- Menambah keterangan mengenai video itu, serta menambahkan keterangan cara kerja produk tersebut di slide baru setelah video. dan menambahkan sejarah dari alat tersebut setelah dibagian slide deskripsi, buat semenarik mungkin.
+
+Pekerjaan Sekarang :
+- menambahkan keterangan mengenai alat tersebut pada slide video dan buat lebih menarik lagi.
+
+Masalah :
+- penyusunan keterangan dan kalimat pada keterangan dislide video kurang tertata dengan baik. 
