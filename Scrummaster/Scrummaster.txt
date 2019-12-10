@@ -325,3 +325,62 @@ Pekerjaan Sekarang :
 
 Masalah :
 - penyusunan keterangan dan kalimat pada keterangan dislide video kurang tertata dengan baik. 
+
+========================================================================
+Scrummaster 4 : Egia Pratama (10 & 11 Desember 2019)
+
+Hari 1 (10 Desember) :
+-------------------------------------
+
+1. Natanael Hutagalung
+
+Pekerjaan Sebelumnya :
+- Memperbaiki kembali penyusunan teks terutama dibagian kekurangan produk serta keterangan dari manfaat produk.
+
+Pekerjaan Sekarang :
+- Menambahkan minimal dua gambar Thermohygrometer pada slide Gambar Pengatur Suhu Otomatis
+
+Masalah :
+- Belum ada
+
+-------------------------------------
+
+2. Faidul Fajar Marpaung
+
+Pekerjaan Sebelumnya :
+- Memperbaiki tampilan slide nama kelompok yang sulit untuk dibaca serta keterangan gambar produk yang kurang jelas
+
+Pekerjaan Sekarang :
+- Menambahkan slide baru setelah slide cara kerja Thermohygrometer yang berisi tentang spesifikasi dan cara menggunakan Thermohygrometer.
+
+Masalah : 
+- Belum ada
+
+-------------------------------------
+
+3. Michael William Butarbutar
+
+Pekerjaan Sebelumnya :
+- Menambahkan gambar maupun warna tulisan agar lebih menarik lagi
+
+Pekerjaan Sekarang :
+- Merapikan ukuran huruf pada seluruh slide agar tidak berbeda-beda dan bedakan ukuran huruf judul dengan ukuran huruf isinya
+- Perbaiki judul yang ada garis bawahnya agar segera dihilangkan
+- Usahakan pilih ukuran huruf yang tidak terlalu kecil atau terlalu besar agar enak dilihat saat dipresentasikan
+
+Masalah :
+- Belum ada
+
+--------------------------------------
+
+4. Putra Pratama Sagala
+
+Pekerjaan Sebelumnya :
+- Berperan sebagai ScrumMaster
+
+Pekerjaan Sekarang :
+- Menambahkan keterangan dari jenis-jenis Pengatur Suhu Ruangan, karena keterangannya terlalu sedikit.
+- Menambahkan slide baru setelah slide spesifikasi dan cara penggunaan yang akan dibuat Faidul Fajar nanti yang berisi tentang Harga produk dan di mana produk ini bisa didapatkan atau dibeli.
+
+Masalah :
+- Belum ada
