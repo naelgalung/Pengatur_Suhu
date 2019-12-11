@@ -341,7 +341,7 @@ Pekerjaan Sekarang :
 - Menambahkan minimal dua gambar Thermohygrometer pada slide Gambar Pengatur Suhu Otomatis
 
 Masalah :
-- Belum ada
+- Gambar kurang pas
 
 -------------------------------------
 
@@ -354,7 +354,7 @@ Pekerjaan Sekarang :
 - Menambahkan slide baru setelah slide cara kerja Thermohygrometer yang berisi tentang spesifikasi dan cara menggunakan Thermohygrometer.
 
 Masalah : 
-- Belum ada
+- Tidak ada
 
 -------------------------------------
 
@@ -369,7 +369,7 @@ Pekerjaan Sekarang :
 - Usahakan pilih ukuran huruf yang tidak terlalu kecil atau terlalu besar agar enak dilihat saat dipresentasikan
 
 Masalah :
-- Belum ada
+- Belum selesai
 
 --------------------------------------
 
@@ -381,6 +381,64 @@ Pekerjaan Sebelumnya :
 Pekerjaan Sekarang :
 - Menambahkan keterangan dari jenis-jenis Pengatur Suhu Ruangan, karena keterangannya terlalu sedikit.
 - Menambahkan slide baru setelah slide spesifikasi dan cara penggunaan yang akan dibuat Faidul Fajar nanti yang berisi tentang Harga produk dan di mana produk ini bisa didapatkan atau dibeli.
+
+Masalah :
+- Gambar kurang rapi
+
+========================================================================
+
+Hari 2 (11 Desember) :
+-------------------------------------
+
+1. Natanael Hutagalung
+
+Pekerjaan Sebelumnya :
+- Menambahkan minimal dua gambar Thermohygrometer pada slide Gambar Pengatur Suhu Otomatis
+
+Pekerjaan Sekarang :
+- Merapikan teks isi pada seluruh slide agar teks rata kiri dan kanan
+
+Masalah :
+- Belum ada
+
+-------------------------------------
+
+2. Faidul Fajar Marpaung
+
+Pekerjaan Sebelumnya :
+- Menambahkan slide baru setelah slide cara kerja Thermohygrometer yang berisi tentang spesifikasi dan cara menggunakan Thermohygrometer.
+
+Pekerjaan Sekarang :
+- Menambahkan gambar pengatur suhu ruangan otomatis minimal 2 gambar lagi, karena gambar terlalu sedikit.
+
+Masalah : 
+- Belum ada
+
+-------------------------------------
+
+3. Michael William Butarbutar
+
+Pekerjaan Sebelumnya :
+- Merapikan ukuran huruf pada seluruh slide agar tidak berbeda-beda dan bedakan ukuran huruf judul dengan ukuran huruf isinya
+- Perbaiki judul yang ada garis bawahnya agar segera dihilangkan
+- Usahakan pilih ukuran huruf yang tidak terlalu kecil atau terlalu besar agar enak dilihat saat dipresentasikan
+
+Pekerjaan Sekarang :
+- Melanjutkan tugas sebelumnya yang belum selesai, buat semenarik mungkin.
+
+Masalah :
+- Belum ada
+
+--------------------------------------
+
+4. Putra Pratama Sagala
+
+Pekerjaan Sebelumnya :
+- Menambahkan keterangan dari jenis-jenis Pengatur Suhu Ruangan, karena keterangannya terlalu sedikit.
+- Menambahkan slide baru setelah slide spesifikasi dan cara penggunaan yang akan dibuat Faidul Fajar nanti yang berisi tentang Harga produk dan di mana produk ini bisa didapatkan atau dibeli.
+
+Pekerjaan Sekarang :
+- Merapikan posisi gambar yang sebelumnya atas bawah menjadi bersebelahan.
 
 Masalah :
 - Belum ada
